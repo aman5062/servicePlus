@@ -1,0 +1,42 @@
+export const servicesData = [
+  {
+    id: "1",
+    category: "AC Repair",
+    title: "AC Gas Refill",
+    description: "Complete AC gas refilling service",
+    price: 499,
+    duration: "90m",
+  },
+  {
+    id: "2",
+    category: "AC Repair",
+    title: "AC Installation",
+    description: "Split & window AC installation",
+    price: 999,
+    duration: "120m",
+  },
+  {
+    id: "3",
+    category: "Home Cleaning",
+    title: "Full Home Deep Cleaning",
+    description: "Complete deep cleaning for your home",
+    price: 150,
+    duration: "240m",
+  },
+  {
+    id: "4",
+    category: "Home Cleaning",
+    title: "Kitchen Cleaning",
+    description: "Deep cleaning of kitchen area",
+    price: 80,
+    duration: "120m",
+  },
+  {
+    id: "5",
+    category: "Plumbing",
+    title: "Leak Repair",
+    description: "Fix water leakage issues",
+    price: 120,
+    duration: "60m",
+  },
+];
